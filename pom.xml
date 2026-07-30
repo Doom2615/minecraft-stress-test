@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.puregero</groupId>
-    <artifactId>minecraft-stress-test</artifactId>
+    <artifactId>minecraft-stress-test-1</artifactId>
     <version>26.1-SNAPSHOT</version>
 
     <properties>
